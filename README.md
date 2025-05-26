@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sulaiman Qazi</h1>
-<h3 align="center">A 17 year old high school student in Canada interested in Computer engineering & Computer Science</h3>
+<h3 align="center">A 17 year old high school student in Canada interested in Computer Engineering & Computer Science</h3>
 
 - 🔭 I’m currently working **at Sunnybrook Research Institute as an Engineering Intern**
 
