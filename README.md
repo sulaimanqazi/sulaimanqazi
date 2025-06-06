@@ -3,6 +3,12 @@
 
 - 🔭 I’m currently working **at Sunnybrook Research Institute as an Engineering Intern**
 
+- 🤖 I'm also the head captain for J Clarke Richardson's **VEX Robotics team Stormbots 50760A**
+
+- 👩‍💻 As well as the programmer for our **FTC Robotics Team 22603 Hurricane Stormbots**
+
+- 🏫 And the president of J Clarke Richardson's **Computer Science Club and STEM Club**
+
 - 💬 Ask me about **hardware and software**
 
 - 📫 How to reach me **sulaimanqazi14@gmail.com**
